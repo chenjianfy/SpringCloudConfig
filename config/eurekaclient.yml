@@ -1,5 +1,5 @@
 config:
-  data: 8765
+  data: ''AAAAAAAAAAAAAAAAAAAAAAAAAAAA'
 spring:
   application:
     name: eurekaclient
